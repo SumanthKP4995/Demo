@@ -1,6 +1,7 @@
 
-Class First{
+class First{
     public static void main(String []arg){
-        Sysetem.out.println("Hello world");
+        System.out.println("Hello world");
+        int i=0;
     }
 }
